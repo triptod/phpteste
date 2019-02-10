@@ -1,3 +1,3 @@
 <?php
-	echo "hello world";
+	echo "teste de alteração de arquivo";
 ?>
